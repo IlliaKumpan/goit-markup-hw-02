@@ -1,0 +1,133 @@
+body{
+    font-family: "Roboto", sans-serif;
+    color: #2e2f42;
+}
+
+header {background-color: #fff;}
+
+.logo {
+    font-family: "Raleway", sans-serif;
+    font-size: 18px;
+    font-weight: 700;
+    text-transform: uppercase;
+    line-height: 1.16667;
+    color: #2E2F42;
+    
+}
+.logo-title {
+    color: #4d5ae5;
+}
+
+.navigation{
+    font-size: 16px;
+    font-weight: 500;
+    color: #2E2F42;
+    line-height: 1.5;
+}
+
+.navigation-button {
+}
+.navigation-button:hover, .navigation-button:focus{
+    color: #404BBF;
+}
+.navigation-button:active{
+    color:#404BBF;
+    text-decoration: underline;
+}
+
+.contacts {
+    font-size: 16px;
+    font-weight: 400;
+    color: #434455;
+    line-height: 1.5;
+}
+
+.contacts-button {
+    color: #2E2F42;
+    text-decoration: none;
+}
+.contacts-button:hover, .contacts-button:focus{
+    color: #404BBF;
+}
+
+.title {
+    background-color: #2e2f42;
+    font-weight: 500;
+    font-size: 16px;
+    color: #fff;
+}
+h1 {
+    font-weight: 700;
+    font-size: 56px;
+    line-height: 1.07143;
+}
+.title-button {
+    color: #fff;
+    background-color: #4D5AE5;
+    line-height: 1.5;
+}
+.title-button:hover, .title-button:focus{
+    color: #fff;
+    background-color: #9747FF;
+    line-height: 1.5;
+    cursor: pointer;
+}
+
+h2 {
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 1.11111;
+    color: #2e2f42;
+}
+
+h3 {
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    color: #2e2f42;
+}
+p {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1.5;
+    color: #434455;
+}
+
+.advantages {}
+
+.advantages-about {}
+
+
+.team {background-color: #f4f4fd;}
+
+.team-items {}
+
+
+
+.portfolio {}
+
+.portfolio-items {}
+
+
+.footer {
+    background-color: #2e2f42;
+    color: #fff;
+}
+
+.footer-logo {
+    font-family: "Raleway", sans-serif;
+    font-size: 18px;
+    font-weight: 700;
+    text-transform: uppercase;
+    line-height: 1.16667;
+    color: #f4f4fd;;
+}
+
+.footer-logo-title {color: #4d5ae5;}
+
+.footer-licenses {
+    color: #f4f4fd;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1.5;
+}
