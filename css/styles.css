@@ -1,6 +1,7 @@
 body{
     font-family: "Roboto", sans-serif;
     color: #2e2f42;
+    background-color: #e5e5e5;
 }
 
 header {background-color: #fff;}
@@ -10,19 +11,22 @@ header {background-color: #fff;}
     font-size: 18px;
     font-weight: 700;
     text-transform: uppercase;
-    line-height: 1.16667;
-    color: #2E2F42;
+    line-height: 1.21;
+    letter-spacing: 0.03em;
+    color: #4d5ae5;
     
 }
 .logo-title {
-    color: #4d5ae5;
+    color: #2e2f42;
 }
 
 .navigation{
     font-size: 16px;
     font-weight: 500;
-    color: #2E2F42;
+    color: #2e2f42;
     line-height: 1.5;
+    letter-spacing: 0.02em;
+
 }
 
 .navigation-button {
@@ -34,6 +38,8 @@ header {background-color: #fff;}
     color:#404BBF;
     text-decoration: underline;
 }
+
+.adress{}
 
 .contacts {
     font-size: 16px;
