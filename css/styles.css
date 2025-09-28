@@ -76,7 +76,9 @@ address{font-style: normal;}
 
 .advantages {}
 .advantages-title{}
-.advantages-list {}
+.advantages-list {
+    list-style: none;
+}
 .advantages-list-title {
     list-style: none;
     font-weight: 500;
