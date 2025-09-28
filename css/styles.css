@@ -109,6 +109,7 @@ address {font-style: normal;}
 .team-list {
     list-style: none;
 }
+.team-list-item {}
 .team-list li {background-color: #FFFFFF;}
 .team-list-image {}
 .team-list-title {
