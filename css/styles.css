@@ -1,11 +1,11 @@
-body{
+body {
     font-family: "Roboto", sans-serif;;
     color: #434455;
     background-color: #FFFFFF;
 }
-header{
+header {
 }
-address{font-style: normal;}
+address {font-style: normal;}
 
 .logo {
     font-family: "Raleway", sans-serif;
@@ -75,7 +75,7 @@ address{font-style: normal;}
 
 
 .advantages {}
-.advantages-title{}
+.advantages-title {}
 .advantages-list {
     list-style: none;
 }
@@ -109,7 +109,7 @@ address{font-style: normal;}
 .team-list {
     list-style: none;
 }
-.team-list li{background-color: #FFFFFF;}
+.team-list li {background-color: #FFFFFF;}
 .team-list-image {}
 .team-list-title {
     font-weight: 500;
