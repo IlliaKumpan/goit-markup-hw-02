@@ -5,12 +5,13 @@ body{
 }
 header{
 }
+address{font-style: normal;}
 
 .logo {
     font-family: "Raleway", sans-serif;
     font-weight: 700;
     font-size: 18px;
-    line-height: 1.17px;
+    line-height: 1.17;
     letter-spacing: 0.03em;
     text-transform: uppercase;
     color: #4d5ae5;
@@ -43,7 +44,7 @@ header{
     line-height: 1.5;
     letter-spacing: 0.02em;
     list-style: none;}
-.contacts-button {}
+.contacts-button {color: #434455}
 .contacts-button-link {
     color: #2e2f42;
     text-decoration: none;}
@@ -51,7 +52,7 @@ header{
 
 
 .title {background: #2e2f42;}
-h1 {
+.title-name {
     font-size: 56px;
     line-height: 1.07;
     text-align: center;
@@ -74,7 +75,8 @@ h1 {
 
 .advantages {}
 
-.advantages-about {
+.advantages-list {}
+.advantages-list-title{
     list-style: none;
     font-weight: 500;
     font-size: 20px;
@@ -82,10 +84,11 @@ h1 {
     letter-spacing: 0.02em;
     color: #2e2f42;
 }
-.advantages-about-paragraph{
+.advantages-list-paragraph{
     font-weight: 400;
     font-size: 16px;
     line-height: 1.5;
+    letter-spacing: 0.02em;
     color: #434455;
 }
 
@@ -94,8 +97,8 @@ h1 {
 .team-title {
     font-weight: 700;
     font-size: 36px;
-    line-height: 1.11111;
-    letter-spacing: 0.02em;
+    line-height: 1.11;
+    letter-spacing: 0.02em; 
     text-align: center;
     color: #2e2f42;
     text-transform: capitalize;
@@ -107,6 +110,8 @@ h1 {
     line-height: 1.2;
     letter-spacing: 0.02em;
     text-align: center;
+    background-color: #FFFFFF;
+    color: #2e2f42
 }
 .team-list-paragraph{
     font-weight: 400;
@@ -122,7 +127,7 @@ h1 {
 .portfolio-title {
     font-weight: 700;
     font-size: 36px;
-    line-height: 1.11111;
+    line-height: 1.11;
     letter-spacing: 0.02em;
     text-align: center;
     color: #2e2f42;
@@ -134,6 +139,7 @@ h1 {
     font-size: 20px;
     line-height: 1.2;
     letter-spacing: 0.02em;
+    color: #2e2f42;
 }
 .portfolio-list-paragraph {
     font-weight: 400;
@@ -149,7 +155,7 @@ h1 {
     font-family: "Raleway", sans-serif;
     font-weight: 700;
     font-size: 18px;
-    line-height: 1.17px;
+    line-height: 1.17;
     letter-spacing: 0.03em;
     text-transform: uppercase;
     color: #4d5ae5;
